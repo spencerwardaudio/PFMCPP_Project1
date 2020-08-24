@@ -52,85 +52,93 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
+//  Noun: Fork
+//  action 1: the fork holds food
+fork.holds();
+//  action 2: the fork pushes food forwards
+fork.pushes();
+//  action 3: the fork pulls food backwards
+fork.pulls();
 
-//  action 2:
-
-//  action 3:
- 
 //  2)
-//  Noun:
-//  action 1:
+//  Noun: Monkey
+//  action 1: the monkey climbs 
 
-//  action 2:
+//  action 2: the monkey sits
 
-//  action 3:
+//  action 3:the monkey falls asleep
  
 //  3)
-//  Noun:
-//  action 1:
+//  Noun: Cat 
+//  action 1: the cat meows
+cat.meow();
+//  action 2: the cat chases mice
+cat.chases();
+//  action 3: the cat annoys owner
+cat.annoys();
 
-//  action 2:
-
-//  action 3:
- 
 //  4)
-//  Noun:
-//  action 1:
+//  Noun: Bear
+//  action 1: the bear plays with sticks
+bear.playWithSticks();
+//  action 2: the bear destroys garbage cans
+bear.destroyGarbageCan();
+//  action 3: the bear looks for fish
+bear.looksForFish();
 
-//  action 2:
-
-//  action 3:
- 
 //  5)
-//  Noun:
-//  action 1:
+//  Noun: Stove
+//  action 1: the stove heats up
+stove.getHot();
+//  action 2: the stove lays still
+stove.layStill();
+//  action 3: the stove catches fire
+stove.catchFire();
 
-//  action 2:
-
-//  action 3:
- 
 //  6)
-//  Noun:
-//  action 1:
+//  Noun: Bicycle 
+//  action 1: the bicycle moves forward
+bicycle.moveForward();
+//  action 2: the bicycle moves backward
+bicycle.moveBackward();
+//  action 3: the bicycle stops moving
+bicycle.stopMoving();
 
-//  action 2:
-
-//  action 3:
- 
 //  7)
-//  Noun:
-//  action 1:
+//  Noun: SpeakerCone
+//  action 1: the speakercone reacts to current
+speakercone.reactsToCurrent();
+//  action 2: the speakercone lays still
+speakercone.layStill();
+//  action 3: the speakercone catches fire
+speakercone.catchFire();
 
-//  action 2:
-
-//  action 3:
- 
 //  8)
-//  Noun:
-//  action 1:
+//  Noun: Mouse 
+//  action 1: the mouse looks for cheese
+mouse.lookForCheese();
+//  action 2: the mouse walks 
+mouse.walk();
+//  action 3:the mouse runs
+mouse.run();
 
-//  action 2:
-
-//  action 3:
- 
 //  9)
-//  Noun:
-//  action 1:
+//  Noun: Boat
+//  action 1: the boat floats
+boat.floating();
+//  action 2: the boat moves forward
+boat.moveForward();
+//  action 3: the boat sinks
+boat.sink();
 
-//  action 2:
-
-//  action 3:
- 
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: Hammer
+//  action 1: the hammer hits the nail
+hammer.push();
+//  action 2: the hammer pulls the nail out
+hammer.pull();
+//  action 3: the hammer drops to the ground
+hammer.drop();
 
 
 #endif
