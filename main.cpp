@@ -108,11 +108,11 @@ bicycle.stopMoving();
 //  7)
 //  Noun: SpeakerCone
 //  action 1: the speakercone reacts to current
-speakercone.reactsToCurrent();
+speakerCone.reactsToCurrent();
 //  action 2: the speakercone lays still
-speakercone.layStill();
+speakerCone.layStill();
 //  action 3: the speakercone catches fire
-speakercone.catchFire();
+speakerCone.catchFire();
 
 //  8)
 //  Noun: Mouse 
