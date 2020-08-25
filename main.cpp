@@ -70,13 +70,13 @@ monkey.sits();
 monkey.fallsAsleep();
 
 //  3)
-//  Noun: Cat 
-//  action 1: the cat meows
-cat.meow();
-//  action 2: the cat chases mice
-cat.chases();
-//  action 3: the cat annoys owner
-cat.annoys();
+//  Noun: Microphone Cable
+//  action 1: the microphone cable becomes knotted
+microphoneCable.becomesKnotted();
+//  action 2: the microphone cable unknots itself 
+microphoneCable.becomesUnknotted();
+//  action 3: the microphone cable does not move 
+microphoneCable.doesNotMove();
 
 //  4)
 //  Noun: Bear
