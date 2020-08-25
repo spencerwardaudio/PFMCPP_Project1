@@ -63,11 +63,12 @@ fork.pulls();
 //  2)
 //  Noun: Monkey
 //  action 1: the monkey climbs 
-
+monkey.climbs();
 //  action 2: the monkey sits
-
+monkey.sits();
 //  action 3:the monkey falls asleep
- 
+monkey.fallsAsleep();
+
 //  3)
 //  Noun: Cat 
 //  action 1: the cat meows
